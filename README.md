@@ -1,2 +1,3 @@
 # digitaljay
-A digital version of myself
+A digital version of Josh (Myself)
+
